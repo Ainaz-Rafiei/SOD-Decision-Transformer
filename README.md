@@ -1,4 +1,4 @@
-# Salient Object Detection with Decision Trees
+# Salient Object Detection with Decision Transformer
 
 ## Overview
 This notebook explores **Salient Object Detection (SOD)** using the **DUTS dataset**, a widely recognized benchmark in computer vision. The DUTS dataset contains **10,553 training images** and **5,019 test images**, with pixel-level annotations for evaluating SOD models. The goal is to detect and segment the most prominent objects in an image.
